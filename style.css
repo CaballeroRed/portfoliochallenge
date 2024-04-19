@@ -164,7 +164,7 @@ h1 span {
 
 
 .imagen {
-    background-image: url(/img/Full\ Stack\ Developer.jpg);
+    background-image: url(Full\ Stack\ Developer.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     margin-top: 0;
@@ -187,7 +187,7 @@ h1 span {
 
     height: 150px;
     width: 150px;
-    background-image: url(/img/fotoperfilpeque.jpg);
+    background-image: url(fotoperfilpeque.jpg);
     background-size: cover;
     border-radius: 50%;
     border: 10px solid var(--cuartoverd);
@@ -340,7 +340,7 @@ textarea {
 }
 
 .experiencia {
-    background-image: url(img/encriptadoralura.png);
+    background-image: url(encriptadoralura.png);
     height: 500px;
     display: flex;
     align-items: center;
